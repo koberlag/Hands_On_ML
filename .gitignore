@@ -1,3 +1,5 @@
+datasets/
+
 MANIFEST
 build
 dist
@@ -38,6 +40,7 @@ config.rst
 *.iml
 /.project
 /.pydevproject
+
 
 package-lock.json
 geckodriver.log
